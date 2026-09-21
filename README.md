@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20&text=Özge%20Keskin&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences+%E2%9C%A8;React+%E2%80%A2+.NET+%E2%80%A2+SQL+%E2%80%A2+REST+API;Turning+ideas+into+real+applications." alt="Typing SVG" />
+<img src="./assets/header.svg" width="100%" alt="Özge Keskin - Full-Stack Developer" />
 
 <br/><br/>
 
-### 👋 Hi, I'm Özge
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=%3E+Building+full-stack+web+applications...;%3E+React+%7C+.NET+%7C+SQL+%7C+REST+APIs;%3E+From+interface+to+database.;%3E+git+commit+-m+%22ship+it%22"
+  alt="Typing SVG"
+/>
+
+</div>
+
+<br/>
+
+## 👋 Hi, I'm Özge
 
 I'm a **Full-Stack Developer** focused on building clean, functional and user-centered web applications.
 
@@ -18,39 +23,41 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 
 ---
 
-### ⚡ What I Work With
+## ⚡ Tech Stack
 
-<br/>
+<div align="center">
 
-#### Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 
 <br/><br/>
 
-#### Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
 <br/><br/>
 
-#### Database
+### Database
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br/><br/>
-
-#### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 
 <br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+</div>
+
+<br/>
 
 ---
 
-### ✦ Currently
+## ✦ Currently
 
 <table>
 <tr>
@@ -78,44 +85,61 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 
 ---
 
-### 📊 GitHub
+## 📊 GitHub Activity
 
-<br/>
+<div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ozgekeskinn&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api?username=ozgekeskinn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  alt="GitHub Stats"
+/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekeskinn&layout=compact&hide_border=true&theme=transparent" />
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekeskinn&layout=compact&hide_border=true&theme=transparent"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozgekeskinn&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img
+  src="https://streak-stats.demolab.com?user=ozgekeskinn&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ozgekeskinn&bg_color=00000000&color=8B5CF6&line=A78BFA&point=C4B5FD&area=true&hide_border=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
+
+</div>
 
 <br/>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<br/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/%C3%B6zge-keskin-b3768b265/">
-<img src="https://img.shields.io/badge/LinkedIn-Özge%20Keskin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Özge%20Keskin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-&nbsp;
 
 &nbsp;
 
 <a href="mailto:ozgekesknn1@hotmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
-
-<br/><br/><br/>
-
-<i>Build thoughtfully. Keep learning. Ship things.</i>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,14,18,20" width="100%" />
+<sub>
+  <code>build()</code> · <code>learn()</code> · <code>ship()</code> · <code>repeat()</code>
+</sub>
 
 </div>
