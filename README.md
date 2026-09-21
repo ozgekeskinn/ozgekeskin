@@ -28,29 +28,23 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <div align="center">
 
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 
 <br/><br/>
 
 ### Backend
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
 <br/><br/>
 
 ### Database
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="Microsoft SQL Server" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="Microsoft SQL Server" />
 
 <br/><br/>
 
 ### Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
@@ -119,6 +113,8 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 />
 
 </div>
+
+<br/>
 
 ---
 
