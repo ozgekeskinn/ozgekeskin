@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Özge Keskin - Full-Stack Developer" />
+<img src="https://raw.githubusercontent.com/ozgekeskinn/ozgekeskinn/main/assets/header.svg" width="100%" alt="Özge Keskin - Full-Stack Developer" />
 
 <br/><br/>
 
@@ -41,9 +41,11 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 
 ### Database
 
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="Microsoft SQL Server" />
+</p>
 
 <br/><br/>
 
@@ -90,14 +92,14 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <div align="center">
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=ozgekeskinn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ozgekeskinn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
   alt="GitHub Stats"
 />
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekeskinn&layout=compact&hide_border=true&theme=transparent"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekeskinn&layout=compact&hide_border=true&theme=transparent&langs_count=8"
   alt="Top Languages"
 />
 
@@ -111,14 +113,12 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ozgekeskinn&bg_color=00000000&color=8B5CF6&line=A78BFA&point=C4B5FD&area=true&hide_border=true"
   width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ozgekeskinn&bg_color=0d1117&color=c084fc&line=a855f7&point=f5d0fe&area=true&hide_border=true"
   alt="Contribution Graph"
 />
 
 </div>
-
-<br/>
 
 ---
 
