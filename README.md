@@ -107,7 +107,7 @@
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/%C3%B6zge-keskin-b3768b265/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
