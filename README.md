@@ -118,8 +118,6 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 
 </div>
 
-<br/>
-
 ---
 
 ## 🤝 Let's Connect
