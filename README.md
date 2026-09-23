@@ -49,7 +49,7 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <br/><br/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
