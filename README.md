@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ozgekeskinn/ozgekeskinn/main/assets/header.svg" width="100%" alt="Özge Keskin - Full-Stack Developer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=%C3%96zge%20Keskin&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn"
+  width="100%"
+  alt="Özge Keskin - Full-Stack Developer"
+/>
 
 <br/><br/>
 
