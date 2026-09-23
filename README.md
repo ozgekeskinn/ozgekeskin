@@ -90,33 +90,13 @@ I enjoy working across both **frontend and backend**, turning ideas into complet
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ozgekeskinn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgekeskinn&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
   src="https://streak-stats.demolab.com?user=ozgekeskinn&theme=transparent&hide_border=true"
   alt="GitHub Streak"
 />
 
-<br/><br/>
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ozgekeskinn&bg_color=0d1117&color=c084fc&line=a855f7&point=f5d0fe&area=true&hide_border=true"
-  alt="Contribution Graph"
-/>
-
 </div>
+
+<br/>
 
 ---
 
